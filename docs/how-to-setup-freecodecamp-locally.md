@@ -24,7 +24,7 @@ This is essential, because this way you are able to work on your copy of freeCod
 
 ## Preparing the development environment
 
-Once you have the prerequisites installed, you need to prepare you development environment. This is common for many development workflows, and you will need to do this only once.
+Once you have the prerequisites installed, you need to prepare your development environment. This is common for many development workflows, and you will need to do this only once.
 
 **Follow these steps to get your development environment ready:**
 
@@ -134,7 +134,7 @@ npm -v
 
 We regularly develop on popular and latest operating systems like macOS 10.12 or later, Ubuntu 16.04 or later and Windows 10. Its recommended to lookup your specific issue on resources like: Google, Stack Overflow or Stack Exchange. Chances are that someone has faced the same issue and there is already an answer to your specific query.
 
-If you are on a different OS, and/or are still running into issues, reach out to [contributors community on our public forum](https://www.freeCodeCamp.org/c/contributors) or the [Contributor's Chat room](https://gitter.im/freeCodeCamp/Contributors). We may be able to troubleshoot some common issues.
+If you are on a different OS, and/or are still running into issues, reach out to [contributors community on our public forum](https://www.freecodecamp.org/forum/c/contributors) or the [Contributor's Chat room](https://gitter.im/freeCodeCamp/Contributors). We may be able to troubleshoot some common issues.
 
 We can't support you on GitHub, because software installation issues are beyond the scope of this project.
 
@@ -388,7 +388,7 @@ Follow these steps:
 
     This does not take any additional time than a unconventional message like 'update file' or 'add index.md'
 
-    You can learn more at about [why your should these here](https://www.conventionalcommits.org/en/v1.0.0-beta.2/#why-use-conventional-commits).
+    You can learn more about why you should use conventional commits [here](https://www.conventionalcommits.org/en/v1.0.0-beta.2/#why-use-conventional-commits).
 
 9. If you realise that you need to edit a file or, update the commit message after making a commit you can do so after editing the files with:
 
@@ -412,7 +412,7 @@ Follow these steps:
 
 2. By default, all pull requests should be against the freeCodeCamp main repo, `master` branch.
 
-    Make sure that your Base Fork is set to freeCodeCamp/freeCodeCamp when raising a Pull Request.**
+    Make sure that your Base Fork is set to freeCodeCamp/freeCodeCamp when raising a Pull Request.
 
     ![Image - Comparing forks when making a pull request](/docs/images/github/comparing-forks-for-pull-request.png)
 
